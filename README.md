@@ -1,5 +1,5 @@
-Some Game  
-[![Build Status]][actions] ![Progress] ![DOL Progress] ![RELs Progress] [![Discord Badge]][discord]
+Pokemon XD: Gale of Darkness 
+[![Build Status]][actions] ![Progress] ![DOL Progress] ![RELs Progress]
 =============
 
 <!--
